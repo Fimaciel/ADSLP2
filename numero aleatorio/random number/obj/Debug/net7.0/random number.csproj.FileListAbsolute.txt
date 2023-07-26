@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\bin\Debug\net7.0\random number.exe
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\bin\Debug\net7.0\random number.deps.json
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\bin\Debug\net7.0\random number.runtimeconfig.json
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\bin\Debug\net7.0\random number.dll
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\bin\Debug\net7.0\random number.pdb
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\obj\Debug\net7.0\random number.csproj.AssemblyReference.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\obj\Debug\net7.0\random number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\obj\Debug\net7.0\random number.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\obj\Debug\net7.0\random number.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\obj\Debug\net7.0\random number.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\obj\Debug\net7.0\random number.dll
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\obj\Debug\net7.0\refint\random number.dll
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\obj\Debug\net7.0\random number.pdb
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\obj\Debug\net7.0\random number.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\Atividades Alura\random number\obj\Debug\net7.0\ref\random number.dll
