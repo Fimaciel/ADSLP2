@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\bin\Debug\net6.0\Atividadealgoritimos5pontos.exe
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\bin\Debug\net6.0\Atividadealgoritimos5pontos.deps.json
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\bin\Debug\net6.0\Atividadealgoritimos5pontos.runtimeconfig.json
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\bin\Debug\net6.0\Atividadealgoritimos5pontos.dll
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\bin\Debug\net6.0\Atividadealgoritimos5pontos.pdb
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\obj\Debug\net6.0\Atividadealgoritimos5pontos.csproj.AssemblyReference.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\obj\Debug\net6.0\Atividadealgoritimos5pontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\obj\Debug\net6.0\Atividadealgoritimos5pontos.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\obj\Debug\net6.0\Atividadealgoritimos5pontos.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\obj\Debug\net6.0\Atividadealgoritimos5pontos.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\obj\Debug\net6.0\Atividadealgoritimos5pontos.dll
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\obj\Debug\net6.0\refint\Atividadealgoritimos5pontos.dll
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\obj\Debug\net6.0\Atividadealgoritimos5pontos.pdb
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\obj\Debug\net6.0\Atividadealgoritimos5pontos.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\Atividadealgoritimos5pontos\obj\Debug\net6.0\ref\Atividadealgoritimos5pontos.dll
