@@ -80,10 +80,8 @@ void quest3()
 
     Console.Clear();
 
-    // a) Vetor para armazenar as vogais do alfabeto
     char[] vogais = { 'a', 'e', 'i', 'o', 'u' };
 
-    // b) Vetor para armazenar as alturas de um grupo de 10 pessoas
     double[] alturas = new double[10];
     for (int i = 0; i < 10; i++)
     {
@@ -91,7 +89,6 @@ void quest3()
         alturas[i] = Convert.ToDouble(Console.ReadLine());
     }
 
-    // c) Vetor para armazenar o nome dos meses do ano
     string[] meses = { "Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro" };
 
     Console.WriteLine("\nVogais do alfabeto:");
@@ -139,7 +136,7 @@ void quest7() {
             {
 
                 System.Threading.Thread.Sleep(30);
-                Console.Write("■");
+                Console.Write("■ ");
             }
             Console.WriteLine("");
         }
@@ -149,7 +146,102 @@ void quest7() {
     Console.ReadKey();
     MenuPrincipal();
 }
-void quest8() { }
-void quest9() { }
+void quest8() {
+    Console.Clear();
+
+    int[] a = new int[10]; ;
+    int[] b = new int[a.Length];
+    int[] c = new int[a.Length];
+
+    int inverso = b.Length - 1;
+
+    for (int i = 0; i < a.Length; i++)
+    {
+
+        Console.WriteLine("Informe os valores do vetor A:");
+        a[i] = Convert.ToInt16(Console.ReadLine());
+
+
+    }
+    Console.WriteLine("======================================================================");
+    for (int i = 0; i < b.Length; i++)
+    {
+
+        Console.WriteLine("Informe os valores do vetor B:");
+        b[i] = Convert.ToInt16(Console.ReadLine());
+
+
+    }
+    for (int i = 0; i < c.Length; i++)
+    {
+        c[i] = a[i] + b[inverso];
+
+        inverso--;
+        Console.WriteLine("Valores do Vetor C: " + c[i]);
+    }
+
+
+    Console.WriteLine("Precione qualquer tecla para voltar para o Menu:");
+    Console.ReadKey();
+    MenuPrincipal();
+}
+
+void quest9() {
+    Console.Clear();
+
+    int[] a = { 3, 5, 6, 4, 1, 2, 9};
+    int[] b = { 1, 2, 1, 2, 9, 10, 5 };
+    int[] c = new int[a.Length + b.Length]; 
+    int cLength = 0; 
+
+    for (int i = 0; i < a.Length; i++)
+    {
+        bool foundInB = false; 
+
+        for (int j = 0; j < b.Length; j++)
+        {
+            if (a[i] == b[j])
+            {
+                foundInB = true;
+                break;
+            }
+        }
+
+        if (!foundInB)
+        {
+            c[cLength] = a[i];
+            cLength++;
+        }
+    }
+
+    for (int i = 0; i < b.Length; i++)
+    {
+        bool foundInA = false; 
+
+        for (int j = 0; j < a.Length; j++)
+        {
+            if (b[i] == a[j])
+            {
+                foundInA = true;
+                break;
+            }
+        }
+
+        if (!foundInA)
+        {
+            c[cLength] = b[i];
+            cLength++;
+        }
+    }
+    Console.WriteLine("Vetor C:");
+    for (int i = 0; i < cLength; i++)
+    {
+        Console.Write(c[i] + "|");
+    }
+
+    Console.WriteLine("Precione qualquer tecla para voltar para o Menu:");
+    Console.ReadKey();
+    MenuPrincipal();
+}
 
 
