@@ -13,3 +13,18 @@ C:\Users\nmari\OneDrive\Documentos\Filipe\ADSLP2\MatrizAtividade\MatrizAtividade
 C:\Users\nmari\OneDrive\Documentos\Filipe\ADSLP2\MatrizAtividade\MatrizAtividade\obj\Debug\net6.0\MatrizAtividade.pdb
 C:\Users\nmari\OneDrive\Documentos\Filipe\ADSLP2\MatrizAtividade\MatrizAtividade\obj\Debug\net6.0\MatrizAtividade.genruntimeconfig.cache
 C:\Users\nmari\OneDrive\Documentos\Filipe\ADSLP2\MatrizAtividade\MatrizAtividade\obj\Debug\net6.0\ref\MatrizAtividade.dll
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\bin\Debug\net6.0\MatrizAtividade.exe
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\bin\Debug\net6.0\MatrizAtividade.deps.json
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\bin\Debug\net6.0\MatrizAtividade.runtimeconfig.json
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\bin\Debug\net6.0\MatrizAtividade.dll
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\bin\Debug\net6.0\MatrizAtividade.pdb
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\obj\Debug\net6.0\MatrizAtividade.csproj.AssemblyReference.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\obj\Debug\net6.0\MatrizAtividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\obj\Debug\net6.0\MatrizAtividade.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\obj\Debug\net6.0\MatrizAtividade.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\obj\Debug\net6.0\MatrizAtividade.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\obj\Debug\net6.0\MatrizAtividade.dll
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\obj\Debug\net6.0\refint\MatrizAtividade.dll
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\obj\Debug\net6.0\MatrizAtividade.pdb
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\obj\Debug\net6.0\MatrizAtividade.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Documentos\Codigos em Csharp\AtividadesDeLogica\ADSLP2\MatrizAtividade\MatrizAtividade\obj\Debug\net6.0\ref\MatrizAtividade.dll

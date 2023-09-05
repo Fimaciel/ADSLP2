@@ -60,29 +60,32 @@ void Questao_1(){
 
 void quest_2()
 {
-    Console.WriteLine("Informe a quantidade de fazendeiros");
-    int fazendeiros = Convert.ToInt32((Console.ReadLine()!));
+   
+
+    Console.WriteLine("Informe a quantidade de fazendeiros:");
+    int fazendeiros = Convert.ToInt32(Console.ReadLine());
 
     string[] fazendeiro = new string[fazendeiros];
     string[][] tipogado = new string[fazendeiros][];
     double[][] valorgado = new double[fazendeiros][];
 
-
     for (int i = 0; i < fazendeiros; i++)
     {
-        Console.WriteLine("Inorme o nome do fazendeiro: ");
-        fazendeiro[i] = Console.ReadLine()!;
-        Console.WriteLine($"Quantas cabeças de gado {fazendeiro[i]} tem:");
-        int quantidadeCabeca = Convert.ToInt32((Console.ReadLine()));
-        tipogado[i] = new string[quantidadeCabeca];
-        valorgado[i] = new double[quantidadeCabeca];
+        Console.WriteLine("Informe o nome do fazendeiro:");
+        fazendeiro[i] = Console.ReadLine();
 
+        Console.WriteLine($"Quantos tipos de gado o fazendeiro {fazendeiro[i]} tem?:");
+        int quantidadeTiposGado = Convert.ToInt32(Console.ReadLine());
 
-        for (int j = 0; j < quantidadeCabeca; j++)
+        tipogado[i] = new string[quantidadeTiposGado];
+        valorgado[i] = new double[quantidadeTiposGado];
+
+        for (int j = 0; j < quantidadeTiposGado; j++)
         {
-            Console.WriteLine("Informa o tipo de gado:");
+            Console.WriteLine("Informe o tipo de gado:");
             tipogado[i][j] = Console.ReadLine();
-            Console.WriteLine("Valor do gado:");
+
+            Console.WriteLine("Informe o valor do gado:");
             valorgado[i][j] = Convert.ToDouble(Console.ReadLine());
         }
     }
@@ -91,11 +94,12 @@ void quest_2()
     {
         Console.WriteLine($"O fazendeiro {fazendeiro[i]} tem:");
 
-        for (int j = 0; j < fazendeiro.Length; j++)
+        for (int j = 0; j < tipogado[i].Length; j++)
         {
-            Console.WriteLine("Tipo de gado:" + tipogado[i][j]);
+            Console.WriteLine("Tipo de gado: " + tipogado[i][j]);
             Console.WriteLine("Valor do gado: " + valorgado[i][j]);
-
         }
+        Console.WriteLine("================================");
     }
+    
 }

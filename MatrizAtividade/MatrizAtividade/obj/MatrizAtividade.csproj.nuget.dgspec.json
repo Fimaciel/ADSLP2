@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nmari\\OneDrive\\Documentos\\Filipe\\ADSLP2\\MatrizAtividade\\MatrizAtividade\\MatrizAtividade.csproj": {}
+    "C:\\Users\\filip\\OneDrive\\Documentos\\Codigos em Csharp\\AtividadesDeLogica\\ADSLP2\\MatrizAtividade\\MatrizAtividade\\MatrizAtividade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nmari\\OneDrive\\Documentos\\Filipe\\ADSLP2\\MatrizAtividade\\MatrizAtividade\\MatrizAtividade.csproj": {
+    "C:\\Users\\filip\\OneDrive\\Documentos\\Codigos em Csharp\\AtividadesDeLogica\\ADSLP2\\MatrizAtividade\\MatrizAtividade\\MatrizAtividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nmari\\OneDrive\\Documentos\\Filipe\\ADSLP2\\MatrizAtividade\\MatrizAtividade\\MatrizAtividade.csproj",
+        "projectUniqueName": "C:\\Users\\filip\\OneDrive\\Documentos\\Codigos em Csharp\\AtividadesDeLogica\\ADSLP2\\MatrizAtividade\\MatrizAtividade\\MatrizAtividade.csproj",
         "projectName": "MatrizAtividade",
-        "projectPath": "C:\\Users\\nmari\\OneDrive\\Documentos\\Filipe\\ADSLP2\\MatrizAtividade\\MatrizAtividade\\MatrizAtividade.csproj",
-        "packagesPath": "C:\\Users\\nmari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nmari\\OneDrive\\Documentos\\Filipe\\ADSLP2\\MatrizAtividade\\MatrizAtividade\\obj\\",
+        "projectPath": "C:\\Users\\filip\\OneDrive\\Documentos\\Codigos em Csharp\\AtividadesDeLogica\\ADSLP2\\MatrizAtividade\\MatrizAtividade\\MatrizAtividade.csproj",
+        "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\filip\\OneDrive\\Documentos\\Codigos em Csharp\\AtividadesDeLogica\\ADSLP2\\MatrizAtividade\\MatrizAtividade\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\nmari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
