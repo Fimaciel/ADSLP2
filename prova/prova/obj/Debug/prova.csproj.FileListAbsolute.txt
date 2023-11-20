@@ -1,0 +1,6 @@
+/home/ef/Documentos/ok/prova/prova/bin/Debug/prova.exe
+/home/ef/Documentos/ok/prova/prova/bin/Debug/prova.pdb
+/home/ef/Documentos/ok/prova/prova/obj/Debug/prova.csproj.AssemblyReference.cache
+/home/ef/Documentos/ok/prova/prova/obj/Debug/prova.csproj.CoreCompileInputs.cache
+/home/ef/Documentos/ok/prova/prova/obj/Debug/prova.exe
+/home/ef/Documentos/ok/prova/prova/obj/Debug/prova.pdb

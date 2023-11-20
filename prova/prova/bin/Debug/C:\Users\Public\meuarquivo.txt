@@ -1,0 +1,8 @@
+1
+1
+Id do cliente: 1
+Nome do cliente: 1
+Idade do cliente: 1
+Sexo do cliente: 1
+peso do cliente: 1
+;
